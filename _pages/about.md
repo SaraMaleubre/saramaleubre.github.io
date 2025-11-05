@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Sara Maleubre, currently working as a **Beecrof Fellow** in the BIPAC, at the University of Oxford.
+Hi there! I'm Sara Maleubre, currently working as a **Beecrof Fellow** in the [BIPAC](https://www.physics.ox.ac.uk/research/group/beecroft-institute-particle-astrophysics-and-cosmology), at the University of Oxford.
 
 As a researcher, I am more focused on the theoretical and computational aspects of cosmology, exploring the non-linear regime of large-scale structure in the Universe. My work involves developing high-precision N-body and hydrodynamical simulations, non-Gaussian statistics, and emulator-based models to connect baryonic processes with cosmological observables. Ultimately, I aim to build precision models that will help interpret data from the next generation of cosmological surveys.
 
