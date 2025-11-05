@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "profile.jpeg"
+  name             : "Sara Maleubre Molinero"
+  pronouns         : "she/her"  
+  bio              : "Beecroft Fellow at University of Oxford"
+  location         : #"Earth"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sara.maleubremolinero@physics.ox.ac.uk"
 
   # Academic websites
   academia         : # URL
