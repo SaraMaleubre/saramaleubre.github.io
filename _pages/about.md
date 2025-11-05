@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Sara Maleubre, currently working as a **Beecrof Fellow** in the BIPC, at the University of Oxford.
+Hi there! I'm Sara Maleubre, currently working as a **Beecrof Fellow** in the BIPAC, at the University of Oxford.
 
-I’m a theoretical and computational cosmologist exploring the non-linear regime of large-scale structure in the Universe. My work focuses on developing high-precision N-body and hydrodynamical simulations, non-Gaussian statistics, and emulator-based models to connect baryonic processes with cosmological observables. Ultimately, I aim to build precision models that will help interpret data from the next generation of cosmological surveys.
+As a researcher, I am more focused on the theoretical and computational aspects of cosmology, exploring the non-linear regime of large-scale structure in the Universe. My work involves developing high-precision N-body and hydrodynamical simulations, non-Gaussian statistics, and emulator-based models to connect baryonic processes with cosmological observables. Ultimately, I aim to build precision models that will help interpret data from the next generation of cosmological surveys.
 
-
+Beyond research, I also enjoy engaging with different aspects of university life: teaching and student's welfare, as well as outreach activities. I am lecturer at [St. Peter's college](https://www.spc.ox.ac.uk), currently teaching fundational mathematics to Year 1, and classical field theory and special relativity to Year 3. I am also a Research Fellow at [St. Cross' college](https://www.stx.ox.ac.uk/home), where I perform pastoral duties (i.e. mentoring, welfare).
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! -->
 
