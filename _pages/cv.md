@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div class="wordwrap"><a href="{https://SaraMaleubre.github.io/files/CV+Publications.pdf">Click here for a complete version</a>.</div> 
+<div class="wordwrap"><a href="{{ base_path }}/files/CV+Publications.pdf">Click here for a complete version</a>.</div> 
 
 <!-- {% include base_path %} -->
 
