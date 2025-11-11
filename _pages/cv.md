@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV" - [Click here for a complete version]( https://SaraMaleubre.github.io/files/CV+Publications.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -78,11 +78,11 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Service and leadership
 ======
