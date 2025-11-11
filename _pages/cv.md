@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "CV" - [Click here for a complete version]( https://SaraMaleubre.github.io/files/CV+Publications.pdf)
+title: "CV" 
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+<div class="wordwrap"><a href="{https://SaraMaleubre.github.io/files/CV+Publications.pdf">Click here for a complete version</a>.</div> 
 
 {% include base_path %}
 
