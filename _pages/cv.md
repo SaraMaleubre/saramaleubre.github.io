@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="wordwrap"><a href="{https://SaraMaleubre.github.io/files/CV+Publications.pdf">Click here for a complete version</a>.</div> 
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
