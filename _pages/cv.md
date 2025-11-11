@@ -9,6 +9,7 @@ redirect_from:
 
 <div class="wordwrap"><a href="{{ base_path }}/files/CV+Publications.pdf">Click here for a complete version</a>.</div> 
 
+
 <!-- {% include base_path %} -->
 
 Education
